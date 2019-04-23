@@ -1,0 +1,29 @@
+<!-- Project Name: Hands-On Exercise 6.1-6.3 -->
+<!-- Author: Joshua Taylor-->
+<!-- Date Last Modified: 4.23.19-->
+
+
+#id
+{
+  float: left;
+  background-color: #D2B48C;
+  font: Verdana;
+  padding: 20px;
+}
+
+#class
+{
+  text-decoration-line: underline;
+  text-decoration-style:dotted;
+  text-decoration-color: red;
+  color: blue;
+}
+
+#id
+{
+  position: absolute;
+  top: 20px;
+  right: 40px;
+  background-color: #D3D3D3;
+  border-style: solid;
+}
