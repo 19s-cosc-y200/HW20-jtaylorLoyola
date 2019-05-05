@@ -10,7 +10,12 @@
   font: Verdana;
   padding: 20px;
 }
+			font-family: Verdana, sans-serif;
+			font-size: large;
 
+
+			
+class, not ID!
 #class
 {
   text-decoration-line: underline;
